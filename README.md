@@ -1,10 +1,12 @@
 # Python_Dojo_Blog
 
-En este  repositorio encontrarán un projecto de backend de un sencillo blog desarrollado en Django. El ejercicio fue conducido originalmente en un live de [Twitch](https://www.twitch.tv/terranigmark "Twitch") por [Hector Vega](https://github.com/terranigmark "Hector Vega").
-
 ## Métricas del proyecto.
 
 ![](https://img.shields.io/github/stars/Meluiscruz/Pythpn_Dojo_Blog.svg) ![](https://img.shields.io/github/forks/Meluiscruz/Pythpn_Dojo_Blog.svg) ![](https://img.shields.io/github/issues/Meluiscruz/Pythpn_Dojo_Blog.svg)![](https://img.shields.io/github/tag/Meluiscruz/Pythpn_Dojo_Blog.svg)
+
+## Resumen del proyecto.
+
+En este  repositorio encontrarán un projecto de backend de un sencillo blog desarrollado en Django. El ejercicio fue conducido originalmente en un live de [Twitch](https://www.twitch.tv/terranigmark "Twitch") por [Hector Vega](https://github.com/terranigmark "Hector Vega").
 
 ## ¿Por qué estoy desarrollando este repositorio?
 
