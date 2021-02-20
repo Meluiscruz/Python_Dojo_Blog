@@ -1,6 +1,6 @@
 # Python_Dojo_Blog
 
-En este  repositorio encontrarán un projecto de backend de un sencillo blog desarrollado en Django. El ejercicio fue conducido origginalmente en un live de [Twitch](https://www.twitch.tv/terranigmark "Twitch") por [Hector Vega](https://github.com/terranigmark "Hector Vega").
+En este  repositorio encontrarán un projecto de backend de un sencillo blog desarrollado en Django. El ejercicio fue conducido originalmente en un live de [Twitch](https://www.twitch.tv/terranigmark "Twitch") por [Hector Vega](https://github.com/terranigmark "Hector Vega").
 
 ## Métricas del proyecto.
 
