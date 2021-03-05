@@ -12,12 +12,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header>
-        <h1><a href="{% url 'home' %}">Python Dojo Blog</a></h1>
-    </header>
     <div>
-        {% block content %}
-        {% endblock content %}
+        <header>
+            <div class="nav-left"> 
+                <h1><a href="{% url 'home' %}">Python Dojo Blog</a></h1>
+            </div>
+            <div class="nav-right">
+                <a href="{% url 'post_new' %}">ADD new Blog Post</a>
+            </div>
+        </header>
+            {% block content %}
+            {% endblock content %}
     </div>
 </body>
 </html>
